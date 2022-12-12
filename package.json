@@ -1,0 +1,15 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "description": "a cat-clinic",
+  "main": "script.js",
+  "scripts": {
+    "test": "0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cat"
+  },
+  "author": "duorunfeng",
+  "license": "ISC"
+}

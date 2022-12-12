@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+    background-color: #f1f1f1;
+    
+  }
+  
+  h1 {
+    color: #333;
+    text-align: center;
+    margin: 50px 0 30px 0;
+  }
+  
+  p {
+    margin: 20px 0;
+  }
+  #button1 {
+    position: absolute;
+    left: 150px;
+    top: 290px;
+  }
+  #button2 {
+    position: absolute;
+    left: 170px;
+    top: 360px;
+  }
+  #button3 {
+    position: absolute;
+    left: 100px;
+    top: 370px;
+  }
+  #button4 {
+    position: absolute;
+    left: 130px;
+    top: 420px;
+  }
+  #button5 {
+    position: absolute;
+    left: 350px;
+    top: 500px;
+  }
+  #button6 {
+    position: absolute;
+    left: 700px;
+    top: 130px;
+  }
+  #button7 {
+    position: absolute;
+    left: 450px;
+    top: 290px;
+  }
+  #button8 {
+    position: absolute;
+    left: 500px;
+    top: 400px;
+  }
+  
+ 
+  
+  li {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    margin: 5px;
+  }
+  
+  
